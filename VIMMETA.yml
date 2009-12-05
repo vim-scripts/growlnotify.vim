@@ -1,0 +1,12 @@
+---
+author: Cornelius
+email: cornelius.howl@gmail.com
+name: growlnotify.vim
+repository: http://github.com/c9s/growlnotify.vim
+script_id: 2883
+type: plugin
+version: 0.11
+version_from: vimlib/autoload/growl.vim
+vim_version:
+  op: '>='
+  version: 7.2
